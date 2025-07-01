@@ -65,6 +65,9 @@ ninja.data = [{
       },{id: "news-i-created-my-website",
           title: 'I created my website!',
           description: "",
+          section: "News",},{id: "news-i-created-another-repository-random-walks-check-it-out-at-repositories",
+          title: 'I created another repository (random walks), check it out at repositories',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
