@@ -5,7 +5,6 @@ date: 2025-05-26 14:24:00
 description: notes about numpy arrays
 tags: notes
 categories: notes
-giscus_comments: True
 ---
 
 
