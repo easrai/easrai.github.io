@@ -204,6 +204,7 @@ exclude:
   - _projects/9_project.md
   - _books/
   - _pages/books.md
+  - assets/img/prof_pic.jpg
  
 
 keep_files:
