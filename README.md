@@ -465,6 +465,9 @@ Our most active contributors are welcome to join the maintainers team. If you ar
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
+## Profile pic
+Once you are sure about your profile pic, save it in `/assets/img/` as `prof_pic.jpg`. Also, make sure to find the code related to it in `about.md` and uncomment it.
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ### All Contributors
